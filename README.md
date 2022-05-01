@@ -1,4 +1,4 @@
-# Internship-work-Mobikwi
+# Internship-work-Mobikwik
 
 Setup
 Use the Morpheus setup script goMorpheus.sh for Linux.
