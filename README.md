@@ -1,7 +1,7 @@
 # Internship-work-Mobikwik
 
 Setup
-Use the Morpheus setup script goMorpheus.sh for Linux.
+Formalized Rest API for downloading dump tickets
 
 Unit Testing
 To run unit tests supplied with Morpheus, run below command in morpheus directory.
